@@ -1,1 +1,2 @@
 This is a practice file.
+GIT is easy to use.
